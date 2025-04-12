@@ -23,6 +23,7 @@ To empower solopreneurs & small teams to thrive in the AI era by building lean, 
 - Secure, scalable cloud-native design
 - Built with best practices
 - Designed for growth
+- Built for solopreneurs and small teams with the same security, scalability, and resilience typically reserved for enterprise applications.
 
 ## Our Process
 
